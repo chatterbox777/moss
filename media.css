@@ -1,0 +1,538 @@
+@media screen and (max-device-width: 425px) {
+    section.characteristics {
+        height: 268vh;
+        background-repeat: repeat;
+    }
+    .text {
+        position: unset;
+        margin-left: 50%;
+    }
+    .text p.text-center {
+        width: 300px;
+        display: none;
+    }
+    .text h1.text-center {margin-top: 37%;}
+    .btn-first {
+        margin-top: 15%;
+    }
+    .nav {height: 112px;}
+    .characteristics-row {
+    margin-left: 0px;
+    }
+    .navigat {
+        margin-left: 0;
+    }
+    .about-us .wood-img {
+        background-image: none;
+        position: unset;
+        top: unset;
+        left: unset;
+        background-color: white;
+        opacity: 0.7;
+        height: 572px;
+    }
+    .text-about-us {
+        width: 100%;
+        margin-top: 10px;
+        margin-left: 0;
+        text-align: justify;
+    }
+    .wood-img h3 {
+    }
+    section.about-us {
+        background-position-x: 34%;
+        padding-top: 111px;
+    }
+    .moss-text {margin-top: 37px;text-align: center;}
+    .circles {
+    margin-left: 30%;
+    }
+    .slider .button-moss {margin-top: 5%;}
+}
+
+@media screen and (min-device-width: 426px) and (max-device-width: 1024px) {
+    section.characteristics {
+    height: auto;
+    }
+    .text2 h2 {
+        padding-top:10%;
+    }
+    .circles {
+        margin-left: 41%;
+    }
+}
+@media screen and (min-device-width: 426px) and (max-device-width: 768px) {
+    .moss-text {
+        margin-top: 10%;
+        text-align: center;
+    }
+    .moss-img {
+        margin-left: 12%;
+        width: 78%;
+    }
+    .slider .button-moss {
+        margin-top: 4%;
+    }
+}
+@media screen and (min-device-width: 1024px) and (max-device-width: 1440px) {
+    .about-us .wood-img {
+    left: 45%;
+}
+}
+@media screen and (min-device-width: 768px) and (max-device-width:1024px) {
+    .about-us .container {
+        padding-top: 58%;
+        opacity: 0.7;
+    }
+    .text-about-us {
+        width: inherit;
+        margin-left: 0;
+    }
+    .wood-img h3 {
+        /* padding-left: 0px; */
+        padding: 0;
+        position: unset;
+    }
+    .about-us .wood-img {
+        background-image: none;
+        background-color: azure;
+        position: unset;
+        top: unset;
+        left: unset;
+        height: 339px;
+        /* width: 379px; */
+        margin-left: 0;
+        box-sizing: content-box;
+    }
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 374px) {
+    section.sale {
+        
+    }
+    .nav {
+        height: auto;
+        background-size: 21%;
+        background-position-x: 95%;
+    }
+    .ghost {
+        height: 400px;
+    }
+    .contacts-cont {text-align: center;}
+    section.contacts {
+
+    }
+    .contact-data {
+
+    }
+    .contact-data h2 {margin-left: 0;padding-bottom: 4%;}
+    .contact-data p {margin-left: -2%;}
+    .insta {margin: 0;}
+    .map-data {background-position-x: center;}
+    section.delivery {height: 70vh;}
+    .delivery-cont {
+
+    }
+    .delivery-cont h4 {
+
+    }
+    .delivery-cont p {
+
+    }
+    .retail p {margin-left: 0;}
+    .wholesale p {margin-left: 0;}
+    .retail {
+
+    }
+    .wholesale {}
+    header{
+    background-position-x: center;
+    }
+
+header {
+    background-position-x: center;
+}
+    .example-text {
+        /* position: relative; */
+        max-height: 184px;
+        bottom: 0;
+        opacity: 0.7;
+        margin-left: -160px;
+    }
+    .before {background-position-x: right;}
+    .after {
+        width: 100%;
+        background-position-x: right;
+    }
+    .before-after {
+
+    }
+    .scope {
+    }
+    section.slider {margin-bottom: 111%;}
+    .interior {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .office-rooms {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .shop-windows {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .furniture {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .present {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .int-home {
+        background-size: 91%;
+        background-position-x: center;
+    }
+}
+@media screen and (min-device-width: 375px) and (max-device-width: 425px) {
+    .nav {
+        height: auto;
+        background-size: contain;
+        background-position-x: 95%;
+    }
+    .ghost {
+        height: 40%;
+    }
+    .contacts-cont {
+        text-align: center;
+    }
+    section.contacts {
+    }
+    .contact-data {margin-top: 19%;margin-bottom: -19%;}
+    .contact-data h2 {padding-bottom: 4%;margin: 0;}
+    .contact-data p {margin: 0;}
+    .insta {margin: 0;}
+    .map-data {
+        background-position-x: center;
+    }
+    section.delivery {
+        height: 78vh;
+    }
+    .delivery-cont {margin-top: 23%;}
+    .delivery-cont h4 {/* width: 324px; *//* margin-left: 10px; */}
+    .delivery-cont p {
+        
+    }
+    .retail p {margin-left: 9%;/* width: 310px; */}
+    .wholesale p {
+        margin-left: 0;
+    }
+    .retail {
+
+    }
+    .wholesale {
+
+    }
+    header {
+        background-position-x: center;
+    }
+    .example-text {
+        width: 100%;
+        /* position: absolute; */
+        bottom: 0;
+        opacity: 0.7;
+        margin-left: -50%;
+    }
+    .before {background-position-x: right;}
+    .after {
+        width: 100%;
+        background-position-x: right;
+    }
+    .before-after {
+
+    }
+    .scope {
+    }
+    section.slider {margin-bottom: 111%;}
+    .interior {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .office-rooms {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .shop-windows {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .furniture {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .present {
+        background-size: 91%;
+        background-position-x: center;
+    }
+    .int-home {
+        background-size: 91%;
+        background-position-x: center;
+    }
+}
+@media screen and (min-device-width:426px) and (max-device-width: 767px) {
+    .example-text {
+        margin-left: -50%;
+    }
+    section.characteristics {
+    height: auto;
+    padding-bottom: 75px;
+    }
+section.about-us {
+    /* margin-top: 160%; */
+    background-position-x: center;
+    position: relative;
+}
+    .text-about-us {
+        width: 100%;
+        margin-top: 10px;
+        margin-left: 0;
+        text-align: justify;
+    }
+    .about-us .wood-img {
+        background-image: none;
+        position: absolute;
+        left: unset;
+        background-color: white;
+        opacity: 0.7;
+        /* height: 572px; */
+        bottom: 0;
+        right: 0%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 991px) {
+    .nav {
+        height: auto;
+        background-size: contain;
+        background-position-x: 95%;
+    }
+    .navigat {
+        margin:0;
+    }
+    section.about-us {
+        background-position-x: 25%;
+    }
+    .contacts-cont {
+    text-align: center;
+    padding-top: 6%;
+    }
+    section.contacts {
+        
+    }
+    .contact-data {
+
+    }
+    .contact-data h2 {margin: 0;}
+    .contact-data p {margin: 0;}
+    .insta {margin: 0;}
+    .map-data {
+        
+    }
+    section.delivery {
+        
+    }
+    .delivery-cont {margin-top: 12%;}
+    .delivery-cont h4 {
+
+    }
+    .delivery-cont p {
+        
+    }
+    .retail p {
+    margin-top: 24%;
+    margin-left: 0;
+}
+    .wholesale p {
+        margin-left: 0;
+    }
+    .retail {background-position-x: 169px;background-color: #bcbbba;}
+    .wholesale {
+
+    }
+    .example-text {
+        position: relative;
+        bottom: 124px;
+        opacity: 0.7;
+        margin-left: 0;
+        left: 50%;
+        margin-left: -50%;
+    }
+    .before {background-position-x: right;min-height: 100vh;}
+    .after {
+        width: 100%;
+        background-position-x: right;
+        min-height: 100vh;
+    }
+    .before-after {
+
+    }
+    .scope {
+        /* margin-top: 79%; */
+    }
+    section.slider {margin-bottom: 76%;}
+    .interior {
+        background-size: 51%;
+        background-position-x: center;
+    }
+    .interior h3 {
+        margin-top: 68%;
+    }
+    .office-rooms {
+        background-size: 51%;
+        background-position-x: center;
+        margin-bottom: 6%;
+    }
+    .office-rooms h3 {
+        margin-top: 68%;
+    }
+    .shop-windows {
+        background-size: 51%;
+        background-position-x: center;
+    }
+    .shop-windows h3 {
+        margin-top: 68%;
+    }
+    .furniture {
+        background-size: 51%;
+        background-position-x: center;
+    }
+    .furniture h3 {
+        margin-top: 68%;
+    }
+    .present {
+        background-size: 51%;
+        background-position-x: center;
+    }
+    .present h3 {
+        margin-top: 68%;
+    }
+    .int-home {
+        background-size: 51%;
+        background-position-x: center;
+    }
+    .int-home h3 {
+        margin-top: 68%;
+    }
+}
+@media screen and (min-device-width: 1024px) and (max-device-width: 1339px) {
+    .nav {
+    background-position-x: 10%;
+    }
+    .before {min-height: 100vh;}
+    .after {
+        min-height: 100vh;
+        background-position-x: right;
+    }
+    section.about-us {
+        background-position-x: 34%;
+    }
+    .contacts-cont {
+        
+    }
+    section.contacts {
+        
+    }
+    .contact-data {
+
+    }
+    .contact-data h2 {
+
+    }
+    .contact-data p {
+
+    }
+    .insta {
+
+    }
+    .map-data {
+        
+    }
+    section.delivery {
+        
+    }
+    .delivery-cont {margin-top: 10%;}
+    .delivery-cont h4 {
+
+    }
+    .delivery-cont p {
+        
+    }
+    .retail p {margin-left: 0;}
+    .wholesale p {
+        margin-left: 0;
+    }
+    .retail {
+
+    }
+    .wholesale {
+
+    }
+    .interior {
+background-size: 290px;
+    }
+    .office-rooms {
+        background-size: 290px;
+    }
+    .shop-windows{
+        background-size: 290px;
+    }
+    .furniture {
+        background-size: 290px;
+    }
+    .present {
+        background-size: 290px;
+    }
+    .int-home {
+        background-size: 290px;
+    }
+    .example-text {
+    margin-left: -268px;
+    }
+}
+
+@media screen and (min-device-width: 1440px) {
+    .contacts-cont {
+        
+    }
+    section.contacts {
+        
+    }
+    .contact-data {
+
+    }
+    .contact-data h2 {
+
+    }
+    .contact-data p {
+
+    }
+    .insta {
+
+    }
+    .map-data {
+        
+    }
+    section.delivery {
+        
+    }
+    .delivery-cont {margin-top: 9%;}
+    .delivery-cont h4 {
+
+    }
+    .delivery-cont p {
+        
+    }
+    .example-text {
+    }
+}
